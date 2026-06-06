@@ -219,3 +219,4 @@ Electrs Desktop combines blockchain indexing, Electrum protocol support, transac
 🔒 Enhanced Privacy
 
 Everything needed for modern blockchain indexing and wallet infrastructure.
+ 
